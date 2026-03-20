@@ -1,3 +1,7 @@
+Citations:
+pre-print: https://arxiv.org/abs/2410.14708
+published version: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.4c01341
+
 Welcome to the github page of our paper :)
 
 Inside the folder 'FM_potentials' you can find potential tables for all FM potentials (non-bonded, pairwise) involved in the hybrid MARTINI/FM force field developed for ZIF-8/PVDF. These are labelled as CGX-CGY.dat, where X is the bead type for ZIF-8 and Y is the bead type for PVDF. In the case of ZIF-8, X follows the definition given in figure 1(a). In the case of PVDF, Y follows the definition given in figure 1(b) summed by 2.
